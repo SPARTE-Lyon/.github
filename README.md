@@ -1,2 +1,1 @@
-# .github
-Public Repo for Sparte
+# WELCOME TO SPARTE
